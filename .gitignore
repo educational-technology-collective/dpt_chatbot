@@ -1,3 +1,5 @@
 config_list.json
 .cache
 venv
+dpt_chatbot
+.streamlit/secrets.toml
