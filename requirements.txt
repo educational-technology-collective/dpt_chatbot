@@ -1,3 +1,2 @@
-flask
 openai
-autogen-agentchat[retrievechat]~=0.2
+streamlit
