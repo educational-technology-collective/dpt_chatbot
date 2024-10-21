@@ -3,3 +3,4 @@ config_list.json
 venv
 dpt_chatbot
 .streamlit/secrets.toml
+convos.txt

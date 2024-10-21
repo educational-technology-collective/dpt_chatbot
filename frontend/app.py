@@ -11,7 +11,7 @@ def load_persona(file_path):
 
 # Load personas for patient and PT
 patient_persona = load_persona('personas/patient_1.txt')
-# pt_persona = load_persona('personas/senior_pt.txt')
+pt_persona = load_persona('personas/senior_pt.txt')
 
 agent = st.selectbox("Who do you want to talk to?", ("John W (Patient)", "Senior PT"))
 
